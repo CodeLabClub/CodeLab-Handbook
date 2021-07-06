@@ -34,6 +34,7 @@ CodeLab 推荐的工具与资源
     *  [python-cheatsheet](https://github.com/gto76/python-cheatsheet)
     *  [Python 文档](https://docs.python.org/zh-cn/3/)
     *  [Python学习手册](https://book.douban.com/subject/30364619/)
+* [griffpatch Scratch Tutorials](https://www.youtube.com/c/griffpatch/featured)
 
 ## 创作工具
 google music editor
