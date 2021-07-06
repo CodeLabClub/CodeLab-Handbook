@@ -10,10 +10,10 @@ CodeLab 使用手册
 推荐从 Scratch 入门
 
 -   Scratch
-    -   课程
-    -   社区
+    -   [创意计算](https://www.codelab.club/blog/2021/01/19/creativecodingcourse/)
+    -   [CodeLab 社区](https://create.codelab.club/)
 -   Python
-    -   课程
+    -   [交互计算](https://www.codelab.club/blog/2021/06/01/interactivecomputing/)
 
 # CodeLab 推荐
 CodeLab 推荐的工具与资源
@@ -37,12 +37,12 @@ CodeLab 推荐的工具与资源
 * [griffpatch Scratch Tutorials](https://www.youtube.com/c/griffpatch/featured)
 
 ## 创作工具
-google music editor
+* [CHROME MUSIC LAB](https://musiclab.chromeexperiments.com/)
 
 # 计算机历史与文化
-* alan kay dynabook
-* alan kay personal dynamic media
-* 黑客: 计算机革命的英雄
+* [A Computer for Children of All Ages](https://www.mprove.de/visionreality/media/Kay72a.pdf)
+* [Personal Dynamic Media](http://www.newmediareader.com/book_samples/nmr-26-kay.pdf)
+* 《黑客: 计算机革命的英雄》
 
 # 附录
 
