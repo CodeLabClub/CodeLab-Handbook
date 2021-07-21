@@ -1,4 +1,4 @@
-# CodeLab-Handbook
+# CodeLab Handbook
 CodeLab 手册记录了 CodeLab 在探索计算机、编程过程中的想法、实践、工具，希望能提供一些不同的视角。
 
 ## 了解 CodeLab
