@@ -59,8 +59,8 @@ CodeLab 推荐的工具与资源。
 
 ## 附录
 * [CodeLab 社区](https://create.codelab.club/)
-* [CodeLab Adapter](https://adapter.codelab.club/)
-* [博客](https://www.codelab.club/blog/)
+* [CodeLab 文档](https://adapter.codelab.club/)
+* [CodeLab 博客](https://www.codelab.club/blog/)
 
 
 ## 下载
