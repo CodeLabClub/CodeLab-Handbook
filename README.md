@@ -47,7 +47,7 @@ CodeLab 推荐的工具与资源。
 * [griffpatch Scratch Tutorials](https://www.youtube.com/c/griffpatch/featured)
 
 ### 创作工具
-* [CHROME MUSIC LAB](https://musiclab.chromeexperiments.com/)
+* [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
 
 ## 计算机历史与文化
 * [A Computer for Children of All Ages](https://www.mprove.de/visionreality/media/Kay72a.pdf)
