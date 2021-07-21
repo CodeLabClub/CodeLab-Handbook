@@ -67,4 +67,3 @@ CodeLab 推荐的工具与资源。
 
 ## 下载
 *  PDF
-*  html
